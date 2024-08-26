@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @lufake
-- 👀 I’m interested in many topics
+- 👋 Hi, I’m Luis
 - 🌱 I’m currently studying Business Informatics
 - 📫 How to reach me: luismarlinfalke@gmail.com
 
